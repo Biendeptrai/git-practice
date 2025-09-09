@@ -1,2 +1,2 @@
 # Git Practice
-Giới thiệu: Tôi là <Le Cong Bien>, MSSV <221536>.
+Giới thiệu: Tôi là <Lê Công Biên>, MSSV <221536>.
